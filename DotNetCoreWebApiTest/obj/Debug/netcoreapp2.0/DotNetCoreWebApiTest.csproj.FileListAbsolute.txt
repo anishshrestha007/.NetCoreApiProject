@@ -1,0 +1,11 @@
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.0\DotNetCoreWebApiTest.deps.json
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.0\DotNetCoreWebApiTest.runtimeconfig.json
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.0\DotNetCoreWebApiTest.runtimeconfig.dev.json
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.0\DotNetCoreWebApiTest.dll
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.0\DotNetCoreWebApiTest.csprojResolveAssemblyReference.cache
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.0\DotNetCoreWebApiTest.csproj.CoreCompileInputs.cache
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.0\DotNetCoreWebApiTest.AssemblyInfoInputs.cache
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.0\DotNetCoreWebApiTest.AssemblyInfo.cs
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.0\DotNetCoreWebApiTest.pdb
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.0\DotNetCoreWebApiTest.dll
+c:\users\brainnovation\source\repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.0\DotNetCoreWebApiTest.pdb
